@@ -9,3 +9,4 @@ add_library(longest-substring-without-repeating-characters longest-substring-wit
 add_library(longest-palindromic-substring longest-palindromic-substring/main.cc)
 add_library(integer-to-english-words integer-to-english-words/main.cc)
 add_library(lru-cache lru-cache/main.cc)
+add_library(lfu-cache lfu-cache/main.cc)
